@@ -1,0 +1,101 @@
+Office,Department,Sub Department,Employment Type,Job Type,Seniority,Education,Expected Salary,Current Salary,Hire Cost,Hire Time
+Office 1,HR,Recruitment,Full-Time,Permanent,Junior,High School,50000,45000,1000,30 days
+Office 1,HR,Compensation,Part-Time,Contract,Mid-Level,Bachelor's,51000,46000,1100,45 days
+Office 1,HR,Payroll,Contract,Contract,Senior,Master's,52000,47000,1200,60 days
+Office 1,HR,Training,Freelance,Permanent,Lead,Doctorate,53000,48000,1300,35 days
+Office 1,Finance,Recruitment,Full-Time,Contract,Executive,Diploma,54000,49000,1400,40 days
+Office 1,Finance,Compensation,Part-Time,Contract,Junior,High School,55000,50000,1500,30 days
+Office 1,Finance,Payroll,Contract,Permanent,Mid-Level,Bachelor's,56000,51000,1600,45 days
+Office 1,Finance,Training,Freelance,Contract,Senior,Master's,57000,52000,1700,60 days
+Office 1,IT,Recruitment,Full-Time,Contract,Lead,Doctorate,58000,53000,1800,35 days
+Office 1,IT,Compensation,Part-Time,Permanent,Executive,Diploma,59000,54000,1900,40 days
+Office 1,IT,Payroll,Contract,Contract,Junior,High School,60000,55000,2000,30 days
+Office 1,IT,Training,Freelance,Contract,Mid-Level,Bachelor's,61000,56000,2100,45 days
+Office 1,Marketing,Recruitment,Full-Time,Permanent,Senior,Master's,62000,57000,2200,60 days
+Office 1,Marketing,Compensation,Part-Time,Contract,Lead,Doctorate,63000,58000,2300,35 days
+Office 1,Marketing,Payroll,Contract,Contract,Executive,Diploma,64000,59000,2400,40 days
+Office 1,Marketing,Training,Freelance,Permanent,Junior,High School,65000,60000,2500,30 days
+Office 1,Sales,Recruitment,Full-Time,Contract,Mid-Level,Bachelor's,66000,61000,2600,45 days
+Office 1,Sales,Compensation,Part-Time,Contract,Senior,Master's,67000,62000,2700,60 days
+Office 1,Sales,Payroll,Contract,Permanent,Lead,Doctorate,68000,63000,2800,35 days
+Office 1,Sales,Training,Freelance,Contract,Executive,Diploma,69000,64000,2900,40 days
+Office 2,HR,Recruitment,Full-Time,Contract,Junior,High School,70000,65000,3000,30 days
+Office 2,HR,Compensation,Part-Time,Permanent,Mid-Level,Bachelor's,71000,66000,3100,45 days
+Office 2,HR,Payroll,Contract,Contract,Senior,Master's,72000,67000,3200,60 days
+Office 2,HR,Training,Freelance,Contract,Lead,Doctorate,73000,68000,3300,35 days
+Office 2,Finance,Recruitment,Full-Time,Permanent,Executive,Diploma,74000,69000,3400,40 days
+Office 2,Finance,Compensation,Part-Time,Contract,Junior,High School,75000,70000,3500,30 days
+Office 2,Finance,Payroll,Contract,Contract,Mid-Level,Bachelor's,76000,71000,3600,45 days
+Office 2,Finance,Training,Freelance,Permanent,Senior,Master's,77000,72000,3700,60 days
+Office 2,IT,Recruitment,Full-Time,Contract,Lead,Doctorate,78000,73000,3800,35 days
+Office 2,IT,Compensation,Part-Time,Contract,Executive,Diploma,79000,74000,3900,40 days
+Office 2,IT,Payroll,Contract,Permanent,Junior,High School,80000,75000,4000,30 days
+Office 2,IT,Training,Freelance,Contract,Mid-Level,Bachelor's,81000,76000,4100,45 days
+Office 2,Marketing,Recruitment,Full-Time,Contract,Senior,Master's,82000,77000,4200,60 days
+Office 2,Marketing,Compensation,Part-Time,Permanent,Lead,Doctorate,83000,78000,4300,35 days
+Office 2,Marketing,Payroll,Contract,Contract,Executive,Diploma,84000,79000,4400,40 days
+Office 2,Marketing,Training,Freelance,Contract,Junior,High School,85000,80000,4500,30 days
+Office 2,Sales,Recruitment,Full-Time,Permanent,Mid-Level,Bachelor's,86000,81000,4600,45 days
+Office 2,Sales,Compensation,Part-Time,Contract,Senior,Master's,87000,82000,4700,60 days
+Office 2,Sales,Payroll,Contract,Contract,Lead,Doctorate,88000,83000,4800,35 days
+Office 2,Sales,Training,Freelance,Permanent,Executive,Diploma,89000,84000,4900,40 days
+Office 3,HR,Recruitment,Full-Time,Contract,Junior,High School,90000,85000,5000,30 days
+Office 3,HR,Compensation,Part-Time,Contract,Mid-Level,Bachelor's,91000,86000,5100,45 days
+Office 3,HR,Payroll,Contract,Permanent,Senior,Master's,92000,87000,5200,60 days
+Office 3,HR,Training,Freelance,Contract,Lead,Doctorate,93000,88000,5300,35 days
+Office 3,Finance,Recruitment,Full-Time,Contract,Executive,Diploma,94000,89000,5400,40 days
+Office 3,Finance,Compensation,Part-Time,Permanent,Junior,High School,95000,90000,5500,30 days
+Office 3,Finance,Payroll,Contract,Contract,Mid-Level,Bachelor's,96000,91000,5600,45 days
+Office 3,Finance,Training,Freelance,Permanent,Senior,Master's,97000,92000,5700,60 days
+Office 3,IT,Recruitment,Full-Time,Permanent,Lead,Doctorate,98000,93000,5800,35 days
+Office 3,IT,Compensation,Part-Time,Contract,Executive,Diploma,99000,94000,5900,40 days
+Office 3,IT,Payroll,Contract,Permanent,Junior,High School,100000,95000,6000,30 days
+Office 3,IT,Training,Freelance,Permanent,Mid-Level,Bachelor's,101000,96000,6100,45 days
+Office 3,Marketing,Recruitment,Full-Time,Contract,Senior,Master's,102000,97000,6200,60 days
+Office 3,Marketing,Compensation,Part-Time,Permanent,Lead,Doctorate,103000,98000,6300,35 days
+Office 3,Marketing,Payroll,Contract,Permanent,Executive,Diploma,104000,99000,6400,40 days
+Office 3,Marketing,Training,Freelance,Contract,Junior,High School,105000,100000,6500,30 days
+Office 3,Sales,Recruitment,Full-Time,Permanent,Mid-Level,Bachelor's,106000,101000,6600,45 days
+Office 3,Sales,Compensation,Part-Time,Permanent,Senior,Master's,107000,102000,6700,60 days
+Office 3,Sales,Payroll,Contract,Contract,Lead,Doctorate,108000,103000,6800,35 days
+Office 3,Sales,Training,Freelance,Permanent,Executive,Diploma,109000,104000,6900,40 days
+Office 4,HR,Recruitment,Full-Time,Permanent,Junior,High School,110000,105000,7000,30 days
+Office 4,HR,Compensation,Part-Time,Contract,Mid-Level,Bachelor's,111000,106000,7100,45 days
+Office 4,HR,Payroll,Contract,Permanent,Senior,Master's,112000,107000,7200,60 days
+Office 4,HR,Training,Freelance,Permanent,Lead,Doctorate,113000,108000,7300,35 days
+Office 4,Finance,Recruitment,Full-Time,Contract,Executive,Diploma,114000,109000,7400,40 days
+Office 4,Finance,Compensation,Part-Time,Permanent,Junior,High School,115000,110000,7500,30 days
+Office 4,Finance,Payroll,Contract,Permanent,Mid-Level,Bachelor's,116000,111000,7600,45 days
+Office 4,Finance,Training,Freelance,Contract,Senior,Master's,117000,112000,7700,60 days
+Office 4,IT,Recruitment,Full-Time,Permanent,Lead,Doctorate,118000,113000,7800,35 days
+Office 4,IT,Compensation,Part-Time,Permanent,Executive,Diploma,119000,114000,7900,40 days
+Office 4,IT,Payroll,Contract,Contract,Junior,High School,120000,115000,8000,30 days
+Office 4,IT,Training,Freelance,Permanent,Mid-Level,Bachelor's,121000,116000,8100,45 days
+Office 4,Marketing,Recruitment,Full-Time,Permanent,Senior,Master's,122000,117000,8200,60 days
+Office 4,Marketing,Compensation,Part-Time,Contract,Lead,Doctorate,123000,118000,8300,35 days
+Office 4,Marketing,Payroll,Contract,Permanent,Executive,Diploma,124000,119000,8400,40 days
+Office 4,Marketing,Training,Freelance,Permanent,Junior,High School,125000,120000,8500,30 days
+Office 4,Sales,Recruitment,Full-Time,Contract,Mid-Level,Bachelor's,126000,121000,8600,45 days
+Office 4,Sales,Compensation,Part-Time,Permanent,Senior,Master's,127000,122000,8700,60 days
+Office 4,Sales,Payroll,Contract,Permanent,Lead,Doctorate,128000,123000,8800,35 days
+Office 4,Sales,Training,Freelance,Contract,Executive,Diploma,129000,124000,8900,40 days
+Office 5,HR,Recruitment,Full-Time,Permanent,Junior,High School,130000,125000,9000,30 days
+Office 5,HR,Compensation,Part-Time,Permanent,Mid-Level,Bachelor's,131000,126000,9100,45 days
+Office 5,HR,Payroll,Contract,Contract,Senior,Master's,132000,127000,9200,60 days
+Office 5,HR,Training,Freelance,Permanent,Lead,Doctorate,133000,128000,9300,35 days
+Office 5,Finance,Recruitment,Full-Time,Permanent,Executive,Diploma,134000,129000,9400,40 days
+Office 5,Finance,Compensation,Part-Time,Contract,Junior,High School,135000,130000,9500,30 days
+Office 5,Finance,Payroll,Contract,Permanent,Mid-Level,Bachelor's,136000,131000,9600,45 days
+Office 5,Finance,Training,Freelance,Permanent,Senior,Master's,137000,132000,9700,60 days
+Office 5,IT,Recruitment,Full-Time,Contract,Lead,Doctorate,138000,133000,9800,35 days
+Office 5,IT,Compensation,Part-Time,Permanent,Executive,Diploma,139000,134000,9900,40 days
+Office 5,IT,Payroll,Contract,Permanent,Junior,High School,140000,135000,10000,30 days
+Office 5,IT,Training,Freelance,Contract,Mid-Level,Bachelor's,141000,136000,10100,45 days
+Office 5,Marketing,Recruitment,Full-Time,Permanent,Senior,Master's,142000,137000,10200,60 days
+Office 5,Marketing,Compensation,Part-Time,Permanent,Lead,Doctorate,143000,138000,10300,35 days
+Office 5,Marketing,Payroll,Contract,Contract,Executive,Diploma,144000,139000,10400,40 days
+Office 5,Marketing,Training,Freelance,Permanent,Junior,High School,145000,140000,10500,30 days
+Office 5,Sales,Recruitment,Full-Time,Permanent,Mid-Level,Bachelor's,146000,141000,10600,45 days
+Office 5,Sales,Compensation,Part-Time,Contract,Senior,Master's,147000,142000,10700,60 days
+Office 5,Sales,Payroll,Contract,Permanent,Lead,Doctorate,148000,143000,10800,35 days
+Office 5,Sales,Training,Freelance,Permanent,Executive,Diploma,149000,144000,10900,40 days
